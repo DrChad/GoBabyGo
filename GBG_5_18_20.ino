@@ -1,4 +1,5 @@
-// Copyright (c) 2020, Judit Aubets Macia, Steve Whatley, Chad Baker, and John Ventura // All rights reserved.
+// Copyright (c) 2020, Judit Aubets Macia, Steve Whatley, Chad Baker, and John Ventura
+// All rights reserved.
 // This program may be freely copied and modified provided that the above copyright is included.
 
 #include <CytronMotorDriver.h>  //library for MDD10A
